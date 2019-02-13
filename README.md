@@ -5,6 +5,7 @@ receive blackmagic input and send as spout sender to use across windows software
 
 
 
+
 built for:
 
 OpenFrameworks of_v0.10.0_vs2017_release
@@ -16,6 +17,7 @@ Win 10
 x64
 
 DX11
+
 
 
 ofxAddons:
